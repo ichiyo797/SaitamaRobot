@@ -22,7 +22,7 @@ from telegram.ext import (CallbackContext, CallbackQueryHandler, CommandHandler,
 from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
 
-https://github.com/ichiyo797/SaitamaRobot
+# https://github.com/ichiyo797/SaitamaRobot
 def get_readable_time(seconds: int) -> str:
     count = 0
     ping_time = ""
